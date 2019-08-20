@@ -1,8 +1,0 @@
-{
-    /* add more useful extension */
-    "recommendations": [
-        "ritwickdey.LiveServer",
-        "ecmel.vscode-html-css",
-        "msjsdiag.debugger-for-chrome"
-    ]
-}
